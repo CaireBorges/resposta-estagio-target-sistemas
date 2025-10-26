@@ -1,9 +1,9 @@
-# 🚀 Projeto React - Exercícios de Lógica e Faturamento
+# 🚀 Exercícios de Lógica e Faturamento
 
 [![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)](https://reactjs.org/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/seu-usuario/meu-projeto-react)
 
-Aplicação React que reúne **exercícios de lógica, Fibonacci, análise de faturamento e manipulação de strings**, demonstrando habilidades em React, JavaScript e organização de dados.
+Resposta para vaga de estágio da Empresa Target Sistema,  demonstrando habilidades em React, JavaScript e organização de dados.
 
 ---
 
