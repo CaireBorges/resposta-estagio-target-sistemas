@@ -1,16 +1,39 @@
-# React + Vite
+# 🚀 Projeto React - Exercícios de Lógica e Faturamento
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)](https://reactjs.org/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/seu-usuario/meu-projeto-react)
 
-Currently, two official plugins are available:
+Aplicação React que reúne **exercícios de lógica, Fibonacci, análise de faturamento e manipulação de strings**, demonstrando habilidades em React, JavaScript e organização de dados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 💡 Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Loop Simples:** soma de 1 a 13, mostrando conceitos básicos de laços.  
+- **Sequência de Fibonacci:** gera sequência conforme número informado pelo usuário.  
+- **Análise de Faturamento:** menor, maior, média e dias acima da média com detalhamento diário.  
+- **Faturamento por Estado:** cálculo de percentual de participação de cada estado no faturamento total.  
+- **Inverter String:** inverte strings sem usar `.reverse()`, com entrada do usuário.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚡ Tecnologias
+
+- React.js  
+- JavaScript (ES6+)  
+- CSS personalizado (flex, grid e responsividade)
+
+---
+
+## 📦 Como Rodar
+
+```bash
+# Clonar o repositório
+git clone https://github.com/seu-usuario/meu-projeto-react.git
+cd meu-projeto-react
+
+# Instalar dependências
+npm install
+
+# Rodar projeto
+npm start
