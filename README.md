@@ -4,6 +4,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/seu-usuario/meu-projeto-react)
 
 Resposta para vaga de estágio da Empresa Target Sistema,  demonstrando habilidades em React, JavaScript e organização de dados.
+Veja o projeto aqui: https://resposta-estagio-target-sistemas.vercel.app
+Caso queira ver o codigo em si está tudo no app.jsx
 
 ---
 
